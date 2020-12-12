@@ -66,11 +66,11 @@ const client59 = new Discord.Client();
 const client60 = new Discord.Client();
 
 
-client.login ("NzY1NDUxMTcwODY4NDk0MzU4.X4VAYA.qr3IBM49B2esEXt4KN2nMrpklnU");
-client2.login("NzY1NDU1ODkxNTUzMTg5OTE5.X4VEpA.mTMPpNYuXvdtqVeRuoswUTyso_o");
-client3.login("NzY1NDU3OTAzNzQxMDQyNzAw.X4VGcw.zf4mozo5uGkvq60h35sa0AC9xzQ");
-client4.login("NzY1NDU5MjMwNzkzNzkzNTQ3.X4VHxA.E-dOsMfSsy5QWIzMOqTYVzDVBts");
-client5.login("NzY1NDYwNDc5Nzk4ODA0NTAw.X4VI4w.NJSsFnMH85KkiMM8NZFvw4lkCy8");
+client.login ();
+client2.login();
+client3.login();
+client4.login();
+client5.login();
 client6.login();
 client7.login();
 client8.login();
